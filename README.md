@@ -11,9 +11,32 @@
 ## 📌:Contact
 -이메일 : leehv1234@kookmin.ac.kr
 -블로그 : https://blog.naver.com/leehv1234
--깃헙 : 
+-깃헙 : https://github.com/sacsry/
 
 </br>
 
+## 📌 인천 더조은 컴퓨터 학원 교육과정 수료 및 프로젝트 내역
+
 ## 📌 : Projects
-### 1. 
+### 1. 개인 프로젝트(https://github.com/sacsry/testsample)
+> java UI기술과 DB연동을 응용한 인디게임 개발
+> 개발 기간: 2023.01.05-2023.01.26
+> 기술 스택: JAVA 11 / MYSQL
+> [프로젝트 상세 설명](https://github.com/sacsry/testsample)
+
+### 2. 팀 프로젝트(https://github.com/yegges/teamproject)
+> 웹 개발
+> 개발 기간: 2023.02.01~2023.02.28
+> 기술 스택: JAVA 11 / VUE.JS / SPRING BOOT / MYSQL / MYBATIS 
+> [프로젝트 상세 설명]
+
+</br>
+## 📌 : 개인 공부 내역
+
+https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%EC%9E%85%EB%AC%B8-%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8/dashboard
+
+https://www.inflearn.com/course/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B5%AC%EC%A1%B0-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C/dashboard
+
+https://www.inflearn.com/course/aws-2/dashboard
+
+https://www.inflearn.com/course/aws-%EC%95%84%EB%A7%88%EC%A1%B4-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%80%EC%9E%85%EB%B6%80%ED%84%B0-%ED%99%9C%EC%9A%A9%EA%B9%8C%EC%A7%80/dashboard
