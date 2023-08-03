@@ -28,14 +28,14 @@
 > 
 > [프로젝트 상세 설명](https://github.com/sacsry/testsample)
 
-### 2. 팀 프로젝트(https://github.com/yegges/teamproject)
+### 2. 팀 프로젝트(https://github.com/yegges/teamp)
 > 웹 개발
 > 
 > 개발 기간: 2023.02.01~2023.02.28
 > 
 > 기술 스택: JAVA 11 / VUE.JS / SPRING BOOT / MYSQL / MYBATIS 
 > 
-> [프로젝트 상세 설명](https://github.com/yegges/teamp)
+> [프로젝트 상세 설명](https://github.com/yegges/team)
 
 </br>
 ## 📌 : 개인 공부 내역
