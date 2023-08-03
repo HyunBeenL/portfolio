@@ -35,7 +35,7 @@
 > 
 > 기술 스택: JAVA 11 / VUE.JS / SPRING BOOT / MYSQL / MYBATIS 
 > 
-> [프로젝트 상세 설명](https://github.com/yegges/teamproject)
+> [프로젝트 상세 설명](https://github.com/yegges/teamp)
 
 </br>
 ## 📌 : 개인 공부 내역
