@@ -33,7 +33,7 @@
 > 
 > 개발 기간: 2023.02.01~2023.02.28
 > 
-> 기술 스택: JAVA 11 / VUE.JS / SPRING BOOT / MYSQL / MYBATIS 
+> 기술 스택: JAVA 11 / VUE.JS / SPRING BOOT / MYSQL / MYBATIS / JSP
 > 
 > [프로젝트 상세 설명](https://github.com/yeggse/team)
 
