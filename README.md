@@ -2,7 +2,7 @@
 >## 📌 인천 더조은 컴퓨터 학원 JAVA 및 웹 개발 교육과정 수료 및 프로젝트 내역
 
 </br>
-
+-노션:https://prairie-thought-555.notion.site/Portfolio-cc76e3fe253245919a074b0c2c117704?pvs=4
 
 
 </br>
