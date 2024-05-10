@@ -47,5 +47,6 @@
 > IDE: Intelij ,HeidiSQL server :Apache Tomcat 8.0
 >
 > 외부 API => 네이버API, KG이니시스(아임포트), 다음 주소API
+> 
 > [프로젝트 상세 설명](https://github.com/joyun17/genius)
 </br>
