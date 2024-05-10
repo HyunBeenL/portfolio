@@ -19,14 +19,14 @@
 
 
 ## 📌 : Projects
-### 1. 개인 프로젝트(https://github.com/sacsry/testsample)
-> java UI기술과 DB연동을 응용한 인디게임 개발
+### 1. 개인 프로젝트(https://github.com/HyunBeenL/PersonalProject)
+> 천재그룹 T-SPOON 프로젝트
 > 
-> 개발 기간: 2023.01.05-2023.01.26
+> 개발 기간: 2023.03.26-2023.04.01
 > 
-> 기술 스택: JAVA 11 / MYSQL
+> 기술 스택: JAVA 17 / MARIADB/ JSP / Servlet
 > 
-> [프로젝트 상세 설명](https://github.com/sacsry/testsample)
+> [프로젝트 상세 설명](https://github.com/HyunBeenL/PersonalProject)
 
 ### 2. 팀 프로젝트([https://github.com/yegges/team](https://github.com/yeggse/team))
 > 웹 개발
