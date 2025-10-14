@@ -1,5 +1,6 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leehv1234)](https://solved.ac/leehv1234)
+</br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leehv1234)](https://solved.ac/leehv1234/)
 
 >## 📌 천재교육 AIDT 풀스택 개발자(2024.07~)
