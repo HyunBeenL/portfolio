@@ -1,10 +1,12 @@
-# 이현빈 포트폴리오
->## 📌 천재교육 AIDT 풀스택 개발자
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=leehv1234)](https://solved.ac/leehv1234)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leehv1234)](https://solved.ac/leehv1234/)
+
+>## 📌 천재교육 AIDT 풀스택 개발자(2024.07~)
 
 </br>
 -노션:https://prairie-thought-555.notion.site/Portfolio-cc76e3fe253245919a074b0c2c117704?pvs=4
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=leehv1234)](https://solved.ac/leehv1234/)
 </br>
 
 ## 📌:Contact
